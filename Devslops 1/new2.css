@@ -1,0 +1,9 @@
+h1{
+    color: #009000;
+    text-align: center;
+}
+body{
+    background: linear-gradient(#008000, #ff0000);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
