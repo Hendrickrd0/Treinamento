@@ -1,18 +1,3 @@
-@font-face {
-    font-family: poppinsregular;
-    src: url(../Fonts/Poppins-Regular.ttf);
-}
-
-@font-face {
-    font-family: poppinsmedium;
-    src: url(../Fonts/Poppins-Medium.ttf);
-}
-
-@font-face {
-    font-family: poppinslight;
-    src: url(../Fonts/Poppins-Light.ttf);
-}
-
 body{
     background-color: rgb(34, 34, 34);
     color: white;
@@ -43,7 +28,7 @@ a{
     color: white;
 }
 
-<--transição para quando passar com o mouse em cima, e suavização da transição-->
+<!--transição para quando passar com o mouse em cima, e suavização da transição-->
 a:hover{
     color: rgb(132, 14, 201);
     transition: 0.3s, all;
